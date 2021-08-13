@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gdesouzacrispim
+- 👀 I’m interested in always learn one more thing
+- 🌱 I’m currently learning Java and Node.JS
